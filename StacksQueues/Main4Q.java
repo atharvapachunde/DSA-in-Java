@@ -3,5 +3,8 @@ public class Main4Q {
 
         Queue myQ = new Queue(1);
         myQ.printQ();
+
+        myQ.enQueue(6);
+        myQ.printQ();
     }
 }
