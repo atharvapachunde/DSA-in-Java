@@ -18,8 +18,8 @@ I’m currently learning from [Scott Barrett’s Udemy DSA course](https://www.u
 |------------------------|----------------|
 | Linked Lists           | ✅ Completed    |
 | Doubly Linked Lists    | ✅ Completed    |
-| Stacks & Queues        | 🟢 In Progress  |
-| Trees                  | ⬜ Not Started  |
+| Stacks & Queues        | ✅ Completed    |
+| Trees                  | 🟢 In Progress  |
 | Hash Tables            | ⬜ Not Started  |
 | Graphs                 | ⬜ Not Started  |
 | Heaps                  | ⬜ Not Started  |
