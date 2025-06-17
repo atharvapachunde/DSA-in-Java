@@ -6,5 +6,10 @@ public class Main4Q {
 
         myQ.enQueue(6);
         myQ.printQ();
+
+        myQ.enQueue(9);
+        myQ.printQ();
+        myQ.deQueue();
+        myQ.printQ();
     }
 }

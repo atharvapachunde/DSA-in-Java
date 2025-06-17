@@ -55,4 +55,19 @@ public class Queue {
         }
         length++;
     }
+
+    public Node deQueue(){
+        if(length==0) return null;
+        Node temp = first;
+        if(length==1){
+            first = null;
+            last = null;
+        }else{
+            first = temp.next;
+            temp.next = null;
+        }
+
+        length--;
+        return temp;
+    }
 }
