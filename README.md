@@ -41,6 +41,12 @@ I’m currently learning from [Scott Barrett’s Udemy DSA course](https://www.u
 
 ---
 
+## 📊 My LeetCode Profile
+
+🔗 [My LeetCode profile](https://leetcode.com/u/atharvapac/)
+
+---
+
 ## 🚀 After Completion
 
 Once this course is complete, the plan is to:
