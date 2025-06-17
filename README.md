@@ -14,22 +14,23 @@ I’m currently learning from [Scott Barrett’s Udemy DSA course](https://www.u
 
 ## ✅ Progress Tracking
 
-| Section                | Status       |
-|------------------------|--------------|
-| Linked Lists           | ⬜ Not Started |
-| Doubly Linked Lists    | ⬜ Not Started |
-| Stacks & Queues        | ⬜ Not Started |
-| Trees                  | ⬜ Not Started |
-| Hash Tables            | ⬜ Not Started |
-| Graphs                 | ⬜ Not Started |
-| Heaps                  | ⬜ Not Started |
-| Recursion              | ⬜ Not Started |
-| Recursive BST          | ⬜ Not Started |
-| Tree Traversal         | ⬜ Not Started |
-| Basic Sorts            | ⬜ Not Started |
-| Merge Sort             | ⬜ Not Started |
-| Quick Sort             | ⬜ Not Started |
-| Dynamic Programming    | ⬜ Not Started |
+| Section                | Status         |
+|------------------------|----------------|
+| Linked Lists           | ✅ Completed    |
+| Doubly Linked Lists    | ✅ Completed    |
+| Stacks & Queues        | ⬜ Not Started  |
+| Trees                  | ⬜ Not Started  |
+| Hash Tables            | ⬜ Not Started  |
+| Graphs                 | ⬜ Not Started  |
+| Heaps                  | ⬜ Not Started  |
+| Recursion              | ⬜ Not Started  |
+| Recursive BST          | ⬜ Not Started  |
+| Tree Traversal         | ⬜ Not Started  |
+| Basic Sorts            | ⬜ Not Started  |
+| Merge Sort             | ⬜ Not Started  |
+| Quick Sort             | ⬜ Not Started  |
+| Dynamic Programming    | ⬜ Not Started  |
+
 
 ---
 
