@@ -2,9 +2,9 @@ public class Main {
 
     public static void main(String[] args){
 
-        HashTable myHT = new HashTable();
-
-        myHT.printList();
+//        HashTable myHT = new HashTable();
+//
+//        myHT.printList();
 
         HashTable myHashTable = new HashTable();
 
@@ -12,9 +12,8 @@ public class Main {
         myHashTable.set("tile",50);
         myHashTable.set("lumber",80);
 
-        myHashTable.set("bolts",200);
-        myHashTable.set("screw",140);
+        System.out.println(myHashTable.get("nails"));
+        System.out.println(myHashTable.get("bolts"));
 
-        myHashTable.printList();
     }
 }
