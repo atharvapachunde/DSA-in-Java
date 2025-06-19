@@ -8,12 +8,14 @@ public class Main {
 
         HashTable myHashTable = new HashTable();
 
-        myHashTable.set("nails",100);
-        myHashTable.set("tile",50);
-        myHashTable.set("lumber",80);
+        myHashTable.set("paint",1200);
+        myHashTable.set("bolts",1200);
+        myHashTable.set("nails",1200);
+        myHashTable.set("tile",1200);
+        myHashTable.set("lumber",1200);
+//        myHashTable.set("sneaker",1200);
 
-        System.out.println(myHashTable.get("nails"));
-        System.out.println(myHashTable.get("bolts"));
+        System.out.println(myHashTable.keys());
 
     }
 }
