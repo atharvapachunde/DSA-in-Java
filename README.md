@@ -19,8 +19,8 @@ I’m currently learning from [Scott Barrett’s Udemy DSA course](https://www.u
 | Linked Lists           | ✅ Completed    |
 | Doubly Linked Lists    | ✅ Completed    |
 | Stacks & Queues        | ✅ Completed    |
-| Trees                  | 🟢 In Progress  |
-| Hash Tables            | ⬜ Not Started  |
+| Trees                  | ✅ Completed    |
+| Hash Tables            | 🟢 In Progress  |
 | Graphs                 | ⬜ Not Started  |
 | Heaps                  | ⬜ Not Started  |
 | Recursion              | ⬜ Not Started  |
