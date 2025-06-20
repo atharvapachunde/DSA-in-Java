@@ -20,8 +20,8 @@ I’m currently learning from [Scott Barrett’s Udemy DSA course](https://www.u
 | Doubly Linked Lists    | ✅ Completed    |
 | Stacks & Queues        | ✅ Completed    |
 | Trees                  | ✅ Completed    |
-| Hash Tables            | 🟢 In Progress  |
-| Graphs                 | ⬜ Not Started  |
+| Hash Tables            | ✅ Completed    |
+| Graphs                 | 🟢 In Progress  |
 | Heaps                  | ⬜ Not Started  |
 | Recursion              | ⬜ Not Started  |
 | Recursive BST          | ⬜ Not Started  |
