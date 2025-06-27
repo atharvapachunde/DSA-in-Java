@@ -21,8 +21,8 @@ I’m currently learning from [Scott Barrett’s Udemy DSA course](https://www.u
 | Stacks & Queues        | ✅ Completed    |
 | Trees                  | ✅ Completed    |
 | Hash Tables            | ✅ Completed    |
-| Graphs                 | 🟢 In Progress  |
-| Heaps                  | ⬜ Not Started  |
+| Graphs                 | ✅ Completed    |
+| Heaps                  | 🟢 In Progress  |
 | Recursion              | ⬜ Not Started  |
 | Recursive BST          | ⬜ Not Started  |
 | Tree Traversal         | ⬜ Not Started  |
