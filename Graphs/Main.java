@@ -6,15 +6,18 @@ public class Main {
         mygraph.addVertex("A");
         mygraph.addVertex("B");
         mygraph.addVertex("C");
+        mygraph.addVertex("D");
 
         mygraph.addEdge("A","B");
         mygraph.addEdge("A","C");
-        mygraph.addEdge("B","C");
+        mygraph.addEdge("A","D");
+        mygraph.addEdge("B","D");
+        mygraph.addEdge("C","D");
 
         mygraph.printGraph();
 
-        mygraph.removeEdge("A","B");
-
+        mygraph.removeVertex("D");
         mygraph.printGraph();
+
     }
 }
