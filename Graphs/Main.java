@@ -4,6 +4,8 @@ public class Main {
         Graph mygraph = new Graph();
 
         mygraph.addVertex("A");
+        mygraph.addVertex("B");
+        mygraph.addEdge("A","B");
 
         mygraph.printGraph();
     }
